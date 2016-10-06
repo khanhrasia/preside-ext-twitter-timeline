@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form i18nBaseUri="widgets.twitter-timeline:">
+	<tab>
+		<fieldset>
+			<field name="title"                                       />
+			<field name="username"     required="true"                />
+			<field name="number_feed"  control="spinner"  default="5" />
+			<field name="with_replies" control="checkbox"             />
+			<field name="height"       default="500"                  />
+			<field name="width"        default="500"                  />
+		</fieldset>
+	</tab>
+</form>

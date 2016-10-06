@@ -1,0 +1,22 @@
+{
+	  "name"                   : "PresideCMS Extension: Twitter Timeline"
+	, "version"                : "1.0.0"
+	, "author"                 : "Niall O'Doherty"
+	, "directory"              : "application/extensions"
+	, "homepage"               : "https://github.com/nodoherty/preside-ext-twitter-timeline"
+	, "documentation"          : "https://github.com/nodoherty/preside-ext-twitter-timeline"
+	, "type"                   : "preside-extensions"
+	, "location"               : "https://github.com/nodoherty/preside-ext-twitter-timeline/archive/v1.0.0.zip"
+	, "repository"             : {
+		  "type" : "git"
+		, "URL"  : "https://github.com/nodoherty/preside-ext-twitter-timeline"
+	  }
+	, "slug"       : "preside-ext-twitter-timeline"
+	, "projectURL" : ""
+	, "ignore"     : [
+		  ".git/*"
+		, ".gitignore"
+		, ".twgit_features_subject"
+		, ".twgit"
+	  ]
+}
